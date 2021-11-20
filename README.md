@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about JS ..
 #
-#
 - Any man who must say ‘I am the King’ is no true King.
