@@ -1,6 +1,5 @@
 ### Hi there 👋
 
 - 🔭 I’m working at my home!
+- I love building technology products that help people, make life easier and happier every day.
 
-#
-- Any man who must say ‘I am the King’ is no true King - Tywin Lannister
